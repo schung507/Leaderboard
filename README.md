@@ -1,4 +1,4 @@
-# App Leaderboard Take-home
+# App Leaderboard
 
 ## Setup
 
@@ -22,9 +22,7 @@ Basic Commands:
 ```
 Inputs will be prompted.
 
-### Extra Feature
-
-Search a range:
+### Search a range
 ```
 > leaderboard r
 ```
