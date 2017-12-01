@@ -1,0 +1,19 @@
+{
+  "name": "leaderboard",
+  "version": "1.0.0",
+  "description": "leaderboard application",
+  "main": "command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "fast-csv": "^2.4.1",
+    "inquirer": "^3.3.0"
+  },
+  "bin": {
+    "leaderboard" : "./command.js"
+  }
+}
